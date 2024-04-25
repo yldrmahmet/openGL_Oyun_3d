@@ -1,0 +1,29 @@
+﻿  Kaynak.cpp
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(109,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(111,23): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(114,23): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(117,23): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(224,25): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(224,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(240,30): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(240,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(243,16): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(244,32): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(244,16): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(245,22): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(433,28): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(443,32): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(445,32): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(446,32): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(450,32): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(452,32): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(453,33): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(456,32): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(458,32): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(459,33): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(463,42): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(467,38): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(470,43): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(496,26): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\kanad\source\repos\ndat_vize_ödev\ndat_vize_ödev\Kaynak.cpp(517,26): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  ndat_vize_ödev.vcxproj -> C:\Users\kanad\source\repos\ndat_vize_ödev\Debug\ndat_vize_ödev.exe
